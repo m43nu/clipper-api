@@ -1,0 +1,7 @@
+{
+  "name": "clipper-api",
+  "type": "module",
+  "dependencies": {
+    "youtube-transcript": "^1.0.6"
+  }
+}
